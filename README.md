@@ -1,4 +1,4 @@
-![image](https://github.com/anshumansinha18/sampleQuizApp-crio/assets/39727166/9ac936e6-0c2f-42d2-91f6-4374a95a9b2f)![image](https://github.com/anshumansinha18/sampleQuizApp-crio/assets/39727166/fb64c461-80bf-4641-a891-7636eeb4e4e3)# Interactive Quiz Application
+### Interactive Quiz Application
 
 An engaging and interactive web-based quiz application that allows users to test their knowledge on a variety of topics. Answer multiple-choice questions, receive instant feedback, and track your score!
 
