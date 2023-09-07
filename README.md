@@ -33,9 +33,7 @@ To run this application locally, follow these steps:
 
 1. Clone the repository:
 
-   ```
-   git clone https://github.com/your-username/interactive-quiz-app.git
-```
+   ```git clone https://github.com/your-username/interactive-quiz-app.git```
 
 2. Open the project folder in your code editor.
 3. Open the **index.html** file in your web browser to launch the application.
