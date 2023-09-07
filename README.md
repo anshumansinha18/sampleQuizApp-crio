@@ -1,4 +1,4 @@
-### Interactive Quiz Application
+# Interactive Quiz Application
 
 An engaging and interactive web-based quiz application that allows users to test their knowledge on a variety of topics. Answer multiple-choice questions, receive instant feedback, and track your score!
 
